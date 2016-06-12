@@ -1,1 +1,3 @@
-# docker_mon_etcd
+# docker mon etcd
+
+This project used to get container info and stats , put these on etcd for further use.
