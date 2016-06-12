@@ -1,0 +1,4 @@
+docker-py==1.8.1
+urllib3==1.15.1
+dnspython==1.14.0
+python-etcd==0.4.3
